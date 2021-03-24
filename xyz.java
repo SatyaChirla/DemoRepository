@@ -4,9 +4,8 @@ public class xyz
 	public void setX()
 	{	
 	}
-	public int getX()
+	public int SetX()
 	{	
-		return x;
 	}
 	
 }
