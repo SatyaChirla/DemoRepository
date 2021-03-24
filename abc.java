@@ -5,7 +5,8 @@ public class abc
 		System.out.println("HELLO");
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("Hi");
+			System.out.println("PI Value : "+Math.PI);	
 		}
+		System.out.println("Thank you");
 	}
 }
